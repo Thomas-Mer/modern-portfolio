@@ -1,0 +1,14 @@
+{
+  "name": "thomas-mermingis-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Thomas Mermingis",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Thomas Mermingis",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+} 
